@@ -1,0 +1,1 @@
+ Analysis and forecast of the Italian manufacturing production Index. Analysis of Istat data concerning the index of manufacturing production for the periodFebruary 2003 - February 2023 and Index forecast until December 2023
